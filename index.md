@@ -1,6 +1,8 @@
-<sub>2025</sub>
+<sub>2026</sub>
 
 # Rohan Dmello
+
+Senior Software Engineer III | Cloud, Enterprise Integrations and DevOps
 
 ## Contact Information
 
@@ -10,28 +12,29 @@
 
 ## Summary of Qualifications
 
-- 12+ years of experience in all aspects of Software Development lifecycle.
-- 7+ years of experience delivering integration with ERPs and E-commerce Apps in a timely manner.
-- Customer engagement for requirements gathering and product demo.
-- Proficient in translating complex business requirements into solvable technical user stories.
-- Excellent communication, analytical, people skills and an initiative-taking collaborator.
-- Ability to work independently, that has helped me collaborate with different clients and stakeholders.
-- Willingness and ability to learn and adapt quickly to the emerging new technologies and paradigms.
+- 14+ years of software engineering experience across application development, enterprise integrations, cloud-hosted services, and production support.
+- 10+ years delivering ERP and e-commerce integrations for enterprise tax platforms, with hands-on experience designing and supporting Azure-based services and API-driven solutions.
+- Experience deploying and supporting cloud workloads using Azure App Service, Azure API Management, Azure Functions, Windows/Linux VMs, Docker, and Kubernetes.
+- Strong background in full software development lifecycle execution, backlog prioritization, release coordination, root-cause analysis, and cross-functional delivery with business and engineering stakeholders.
+- Proficient in translating complex business requirements into maintainable technical solutions and actionable user stories.
+- Customer-facing experience in requirements gathering, product demonstrations, implementation support, and production issue resolution.
+- Effective collaborator with strong communication, analytical, and problem-solving skills who adapts quickly to new technologies and platforms.
 
 ---
 
-## Languages, Tools and Applications
+## Technical Skills
 
-- **ERP/Ecommerce:** Acumatica, SAP Commerce, SAP S4 Hana, Adobe Commerce (Magento), Dyanmics 365 CE, Dyanmics GP 
+- **Cloud & Platform:** Azure App Service, Azure API Management, Azure VM, Azure Functions
+- **DevOps / CI/CD / Source Control:** Azure DevOps, TeamCity, Git, TFS, Subversion, VSS, CVS
+- **Containers & Orchestration:** Docker, Kubernetes
+- **ERP / E-commerce Platforms:** Acumatica, SAP Commerce, SAP S/4HANA, Adobe Commerce (Magento), Dynamics 365 CE, Dynamics GP
+- **Languages:** C#, Java, PHP, SQL, JavaScript, Bash
+- **Frameworks / Integration:** Spring, JDBC, Servlets, Hibernate, GWT, JSP, XML, HTML, CSS, REST, SOAP
+- **Application / Web Servers:** Apache Tomcat, Apache Web Server, WebLogic
+- **Databases:** MySQL 8.x, Oracle 9.0
 - **Operating Systems:** Linux, Windows, Android, Mac OS X
-- **Languages:** C#, Java, PHP, SQL
-- **Java Technologies:** Spring, JDBC, Servlets, Hibernate
-- **Web Technologies/Frameworks:** GWT, JSP, XML, HTML, JavaScript, CSS, WebServices(REST)
-- **Application/Web Servers:** Apache Tomcat and Webserver, Weblogic
-- **Databases:** MySQL8.x, Oracle 9.0
-- **Tools:** Rally, Putty, WinSCP, TeamCity, TFS, Log4j, FileZilla
-- **IDE:** IntelliJ IDEA, Eclipse, Netbeans, Dreamweaver
-- **Version Control:** Git, Subversion, VSS, CVS
+- **Tools:** Rally, PuTTY, WinSCP, Log4j, FileZilla
+- **IDE:** IntelliJ IDEA, Eclipse, NetBeans, Dreamweaver
 
 ---
 
@@ -59,47 +62,44 @@ Mumbai, India
 
 #### **Wolters Kluwer, Inc. Torrance, CA** → May 2012 – Present
 
-- Designed and Developed 3<sup>rd</sup> party integrations with ERPs and E-commerce Applications for Tax Calculation Engine.
-- Successfully built and deployed integrations on the marketplace which are being used by customers are Acumatica, Dynamics 365 CE, Dynamics GP (2016 R2,2018, 2018R2, 18.3), SAP S4 Hana, Magento 1 and 2.
-- Lead efforts on designing and developing the tax calculation process in Dynamics 365 CE and Magento.
-- Key developer in understanding complex architecture, designing, and implementing Dynamics 365 CE and Magento 1 and 2 integrations.
-- Cloud development is used wherever possible. App Service, APIM, Cloud VM (Windows and Linux) for different integration.
-- Managing and Prioritizing product backlog. Evaluating Product progress in each iteration.
-- Nurture ideas and solutions to existing customer problems.
-- Communicate effectively with team members to achieve project goals.
-- Engagement with Business Customers for product demo and implementation.
-- Key Developer in identifying and fixing the issue which affected the returns generation systemwide and affected all of our returns customers in Q1 of 2014.
-- Tech stack Used: C#, PHP, JavaScript, Java, Spring, MySQL, GWT, Tomcat, Apache SOAP, REST
+- Designed, developed, and deployed marketplace integrations between the tax calculation engine and enterprise ERP/e-commerce platforms including Acumatica, Dynamics 365 CE, Dynamics GP, SAP S/4HANA, and Magento 1/2.
+- Led architecture and development efforts for Dynamics 365 CE, Magento and SAP Commerce tax-calculation workflows, translating complex business requirements into maintainable application and API solutions.
+- Built and supported cloud-hosted integration components using Azure App Service, Azure API Management, Azure Functions, and Windows/Linux VMs to improve deployment flexibility and operational reliability.
+- Automated Docker-based Magento deployments using Bash scripting, enabling the team to support and validate multiple Magento versions through consistent runtime environments.
+- Worked across development, release, and production support activities to keep integrations stable, maintainable, and ready for customer implementations.
+- Managed and prioritized product backlog items, evaluated iteration progress, and partnered with stakeholders on demos, implementation planning, and delivery.
+- Collaborated closely with customers and internal teams to gather requirements, resolve issues, and improve existing platform capabilities.
+- Played a key role in diagnosing and fixing a system-wide returns generation issue affecting all returns customers in Q1 2014, helping restore service and prevent recurrence.
+- Tech stack used: C#, PHP, JavaScript, Java, Bash, Spring, MySQL, GWT, Tomcat, SOAP, REST, Azure App Service, Azure API Management, Azure Functions, Docker, Kubernetes, Azure DevOps, TeamCity
 
 ### Software Engineer
 
 #### **Surado CRM Solutions, Inc. Riverside, CA** → Dec 2011 – April 2012
 
-- Worked on Mobile Platform, Android
-- Gather requirements from the client for the functionalities to be implemented in application
-- Create requirements document and Design the User Interface
-- Implement the functionalities for the designed UI, test the application (Unit and Integration Testing)
-- Implement and maintain WCF web services to get all required data to be represented from SQL server database(SOAP Web Service)
-- Adhere to Coding Standards, Accessibility and Localization when building application
+- Worked on an Android mobile platform, gathering client requirements and translating them into application functionality.
+- Created requirements documentation and designed user interfaces for requested features.
+- Implemented application features and performed unit and integration testing.
+- Implemented and maintained WCF/SOAP web services to retrieve data from a SQL Server database.
+- Followed coding standards, accessibility requirements, and localization practices during development.
 
 ### Web Developer
 
 #### **California State University, San Bernardino San Bernardino, CA** → May 2010 – Dec 2011
 
-- Developed University websites using HTML, JavaScript and CSS
-- Developed, maintained and remodeled 30 campus websites
-- Gather requirements from different departments, work with design team
-- Adhere to ADA Web Accessibility guidelines
-- As an end user, provide a student user perspective
+- Developed university websites using HTML, JavaScript, and CSS.
+- Developed, maintained, and remodeled 30 campus websites.
+- Gathered requirements from departments and partnered with the design team to deliver updates.
+- Adhered to ADA web accessibility guidelines.
+- Contributed an end-user and student perspective to improve usability.
 
 ### Software Engineer
 
 #### **Infosys Technologies Ltd Pune, India** → December 2007 - July 2009
 
-- Developed the client project for enhancement using Java, J2EE, Oracle, SQL, PL/SQL
-- Worked for Telecommunication client – Telenet and Belgacom from Belgium
-- Maintained and Enhanced knowledgebase for client project using JSP and custom tags
-- Involved in entire Software Life Cycle process for an invoice generation tool DOC1
+- Developed client enhancements using Java, J2EE, Oracle, SQL, and PL/SQL.
+- Supported telecom client initiatives for Telenet and Belgacom.
+- Maintained and enhanced a project knowledgebase using JSP and custom tags.
+- Participated in the full software development lifecycle for the DOC1 invoice generation tool.
 
 ---
 
