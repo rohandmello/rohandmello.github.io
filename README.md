@@ -1,3 +1,3 @@
-https://rohandmello.github.io/
+https://rohandmello.github.io/resume
 
 My Resume
