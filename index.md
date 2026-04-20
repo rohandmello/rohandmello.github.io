@@ -38,24 +38,6 @@ Senior Software Engineer III | Cloud, Enterprise Integrations and DevOps
 
 ---
 
-## Education
-
-- **Master of Science – Computer Science, GPA 3.706** → December 2011
-
-```
-California State University, San Bernardino  
-San Bernardino, CA
-```
-
-- **Bachelor of Engineering – Computer Science, Percentage 64** → July 2007
-
-```
-St. Francis Institute of Technology, University of Mumbai
-Mumbai, India
-```
-
----
-
 ## Professional Experience
 
 ### Senior Software Engineer III
@@ -100,6 +82,25 @@ Mumbai, India
 - Supported telecom client initiatives for Telenet and Belgacom.
 - Maintained and enhanced a project knowledgebase using JSP and custom tags.
 - Participated in the full software development lifecycle for the DOC1 invoice generation tool.
+
+
+---
+
+## Education
+
+- **Master of Science – Computer Science, GPA 3.706** → December 2011
+
+```
+California State University, San Bernardino  
+San Bernardino, CA
+```
+
+- **Bachelor of Engineering – Computer Science, Percentage 64** → July 2007
+
+```
+St. Francis Institute of Technology, University of Mumbai
+Mumbai, India
+```
 
 ---
 
